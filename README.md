@@ -1,2 +1,2 @@
-# adventofcode
-http://adventofcode.com/
+# My solutions for [adventofcode](http://adventofcode.com/)
+I ended up working on problems 1-9, and 23 in python. I tried to catch up on like 15 problems in a couple of days, but it took me longer than I thought, and then the holidays came...
